@@ -1,0 +1,5 @@
+apiVersion: v2
+description: Installs dependant operators required to run Pelorus
+name: pelorus-operators
+type: application
+version: 2.0.2

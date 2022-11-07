@@ -1,0 +1,9 @@
+apiVersion: charts.pelorus.konveyor.io/v1alpha1
+kind: PelorusOperators
+metadata:
+  name: pelorusoperators-sample
+spec:
+  # Default values copied from <project_dir>/helm-charts/pelorus-operators/values.yaml
+  {}
+  
+  
